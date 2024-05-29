@@ -1,0 +1,6 @@
+# ignore the following files and directories
+.ipynb_checkpoints
+.cache
+__pycache__
+config.py
+data
