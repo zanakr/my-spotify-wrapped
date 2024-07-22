@@ -1,3 +1,6 @@
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="Y5My2zitv6nP_KSIEjqAE5JAxyZWFKWccPA4ix03FHs" />
+
 ## Project Overview
 
 This project aims to analyze and visualize Spotify listening habits over the past year using data requested from Spotify and additional information retrieved from the Spotify API. The project is divided into two main parts: Data Preparation and Exploratory Data Analysis with Visualizations.
